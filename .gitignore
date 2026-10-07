@@ -1,0 +1,8 @@
+train/
+valid/
+test/
+runs/
+__pycache__/
+.venv/
+.vscode/
+*.yaml
